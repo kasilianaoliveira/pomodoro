@@ -1,0 +1,13 @@
+.pomodoro {
+  padding: 15px 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  border-bottom: 1px solid #4f4f4f;
+}
+
+.pomodoro img {
+  width: 20px;
+  height: 23px;
+}
